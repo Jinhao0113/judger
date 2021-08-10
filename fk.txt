@@ -1,0 +1,14 @@
+touch: .contest/C3/code/asd/a/k.txt: No such file or directory
+touch: .contest/C3/code/asd/a/CE.txt: No such file or directory
+./.contest/C3/code/check.sh: line 6: .contest/C3/code/asd/a/CE.txt: No such file or directory
+diff: .contest/C3/code/asd/a/CE.txt: No such file or directory
+diff: .contest/C3/code/asd/a/k.txt: No such file or directory
+touch: .contest/C3/code/asd/b/k.txt: No such file or directory
+touch: .contest/C3/code/asd/b/CE.txt: No such file or directory
+./.contest/C3/code/check.sh: line 89: .contest/C3/code/asd/b/CE.txt: No such file or directory
+diff: .contest/C3/code/asd/b/CE.txt: No such file or directory
+diff: .contest/C3/code/asd/b/k.txt: No such file or directory
+touch: .contest/C3/code/zzzzzzzzzz/a/k.txt: No such file or directory
+touch: .contest/C3/code/zzzzzzzzzz/a/CE.txt: No such file or directory
+./.contest/C3/code/check.sh: line 172: .contest/C3/code/zzzzzzzzzz/a/CE.txt: No such file or directory
+./.contest/C3/code/check.sh: line 418: syntax error: unexpected end of file
